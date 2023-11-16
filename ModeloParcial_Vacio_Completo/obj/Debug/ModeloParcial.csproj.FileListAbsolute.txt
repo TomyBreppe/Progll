@@ -1,0 +1,44 @@
+C:\Users\Usuario\Desktop\TUP\Programacion II\ModeloParcial\bin\Debug\ModeloParcial.exe.config
+C:\Users\Usuario\Desktop\TUP\Programacion II\ModeloParcial\bin\Debug\ModeloParcial.exe
+C:\Users\Usuario\Desktop\TUP\Programacion II\ModeloParcial\bin\Debug\ModeloParcial.pdb
+C:\Users\Usuario\Desktop\TUP\Programacion II\ModeloParcial\obj\Debug\ModeloParcial.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TUP\Programacion II\ModeloParcial\obj\Debug\ModeloParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\TUP\Programacion II\ModeloParcial\obj\Debug\ModeloParcial.FrmRegistro.resources
+C:\Users\Usuario\Desktop\TUP\Programacion II\ModeloParcial\obj\Debug\ModeloParcial.Properties.Resources.resources
+C:\Users\Usuario\Desktop\TUP\Programacion II\ModeloParcial\obj\Debug\ModeloParcial.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\TUP\Programacion II\ModeloParcial\obj\Debug\ModeloParcial.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TUP\Programacion II\ModeloParcial\obj\Debug\ModeloParcial.exe
+C:\Users\Usuario\Desktop\TUP\Programacion II\ModeloParcial\obj\Debug\ModeloParcial.pdb
+D:\User Data\Desktop\ModeloParcial\bin\Debug\ModeloParcial.exe.config
+D:\User Data\Desktop\ModeloParcial\bin\Debug\ModeloParcial.exe
+D:\User Data\Desktop\ModeloParcial\bin\Debug\ModeloParcial.pdb
+D:\User Data\Desktop\ModeloParcial\obj\Debug\ModeloParcial.csproj.AssemblyReference.cache
+D:\User Data\Desktop\ModeloParcial\obj\Debug\ModeloParcial.csproj.SuggestedBindingRedirects.cache
+D:\User Data\Desktop\ModeloParcial\obj\Debug\ModeloParcial.FrmRegistro.resources
+D:\User Data\Desktop\ModeloParcial\obj\Debug\ModeloParcial.Properties.Resources.resources
+D:\User Data\Desktop\ModeloParcial\obj\Debug\ModeloParcial.csproj.GenerateResource.cache
+D:\User Data\Desktop\ModeloParcial\obj\Debug\ModeloParcial.csproj.CoreCompileInputs.cache
+D:\User Data\Desktop\ModeloParcial\obj\Debug\ModeloParcial.exe
+D:\User Data\Desktop\ModeloParcial\obj\Debug\ModeloParcial.pdb
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\PROGII_REPO_BENEGAS\ModeloParcial_Vacio\bin\Debug\ModeloParcial.exe.config
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\PROGII_REPO_BENEGAS\ModeloParcial_Vacio\bin\Debug\ModeloParcial.exe
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\PROGII_REPO_BENEGAS\ModeloParcial_Vacio\bin\Debug\ModeloParcial.pdb
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\PROGII_REPO_BENEGAS\ModeloParcial_Vacio\obj\Debug\ModeloParcial.csproj.AssemblyReference.cache
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\PROGII_REPO_BENEGAS\ModeloParcial_Vacio\obj\Debug\ModeloParcial.csproj.SuggestedBindingRedirects.cache
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\PROGII_REPO_BENEGAS\ModeloParcial_Vacio\obj\Debug\ModeloParcial.FrmRegistro.resources
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\PROGII_REPO_BENEGAS\ModeloParcial_Vacio\obj\Debug\ModeloParcial.Properties.Resources.resources
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\PROGII_REPO_BENEGAS\ModeloParcial_Vacio\obj\Debug\ModeloParcial.csproj.GenerateResource.cache
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\PROGII_REPO_BENEGAS\ModeloParcial_Vacio\obj\Debug\ModeloParcial.csproj.CoreCompileInputs.cache
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\PROGII_REPO_BENEGAS\ModeloParcial_Vacio\obj\Debug\ModeloParcial.exe
+D:\User Data\Desktop\PROGII_REPO_BENEGAS\PROGII_REPO_BENEGAS\ModeloParcial_Vacio\obj\Debug\ModeloParcial.pdb
+C:\Users\tbrep\OneDrive\Escritorio\ModeloParcial_Vacio_Completo\bin\Debug\ModeloParcial.exe.config
+C:\Users\tbrep\OneDrive\Escritorio\ModeloParcial_Vacio_Completo\bin\Debug\ModeloParcial.exe
+C:\Users\tbrep\OneDrive\Escritorio\ModeloParcial_Vacio_Completo\bin\Debug\ModeloParcial.pdb
+C:\Users\tbrep\OneDrive\Escritorio\ModeloParcial_Vacio_Completo\obj\Debug\ModeloParcial.csproj.AssemblyReference.cache
+C:\Users\tbrep\OneDrive\Escritorio\ModeloParcial_Vacio_Completo\obj\Debug\ModeloParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\tbrep\OneDrive\Escritorio\ModeloParcial_Vacio_Completo\obj\Debug\ModeloParcial.FrmRegistro.resources
+C:\Users\tbrep\OneDrive\Escritorio\ModeloParcial_Vacio_Completo\obj\Debug\ModeloParcial.Properties.Resources.resources
+C:\Users\tbrep\OneDrive\Escritorio\ModeloParcial_Vacio_Completo\obj\Debug\ModeloParcial.csproj.GenerateResource.cache
+C:\Users\tbrep\OneDrive\Escritorio\ModeloParcial_Vacio_Completo\obj\Debug\ModeloParcial.csproj.CoreCompileInputs.cache
+C:\Users\tbrep\OneDrive\Escritorio\ModeloParcial_Vacio_Completo\obj\Debug\ModeloParcial.exe
+C:\Users\tbrep\OneDrive\Escritorio\ModeloParcial_Vacio_Completo\obj\Debug\ModeloParcial.pdb
